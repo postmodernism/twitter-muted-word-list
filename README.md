@@ -8,7 +8,7 @@ This is a list of words to mute on Twitter for a more enjoyable experience, brok
 
 I don't know if blocking these terms actually does anything (I've seen varying results based on how you're using Twitter, i.e. app, browser, OS, etc), but if you have some space left, they can't hurt to add.
 
-`ActivityTweet
+>ActivityTweet
 generic_activity_highlights
 generic_activity_momentsbreaking
 RankedOrganicTweet
@@ -28,4 +28,4 @@ suggest_timeline_tweet
 suggest_who_to_follow
 suggestactivitytweet
 suggestpyletweet
-suggestrecycledtweet_inline` 
+suggestrecycledtweet_inline
